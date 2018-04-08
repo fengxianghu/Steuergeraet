@@ -1,0 +1,11 @@
+
+Frage:
+1. Temperatursensor:  Kann es direkt auf dem Wand von der Wassertank anh?ngen?
+2. Bis zu welchem Wert warnt die Sensor?  
+
+
+2. Relais: entscheidet dar¨¹ber, ob die Sensor l?uft oder nicht.
+
+3.gassensor ----warnung
+
+4. Stromsensor- wieviel Akuu hat die Battrie noch ?
